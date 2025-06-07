@@ -2,7 +2,7 @@
 
 **Cross-platform desktop tool for monitoring and analyzing USB devices.**
 
-Built with **Tauri**, **React**, and **Python**.
+Built with **Tauri**, **Vite**, **React**, and **Python**.
 
 USB Protector detects connected USB devices in real time and helps prevent potentially malicious activity. It also presents data in a clear, modern interface.
 
@@ -14,7 +14,7 @@ USB Protector detects connected USB devices in real time and helps prevent poten
 
 ## ⚙️ Tech Stack
 
-- **Frontend**: React + Tauri
+- **Frontend**: React + Vite + Tauri 
 - **Backend**: Python
 - **Platform**: Windows / Linux / macOS
 
