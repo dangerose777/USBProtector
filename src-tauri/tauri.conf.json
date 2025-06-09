@@ -12,9 +12,13 @@
   "app": {
     "windows": [
       {
-        "title": "tauri-app",
-        "width": 800,
-        "height": 600
+        "title": "USBProtector",
+        "width": 1000,
+        "height": 650,
+        "fullscreen": false,
+        "maximizable": false,
+        "resizable": false,
+        "center": true
       }
     ],
     "security": {

@@ -1,0 +1,13 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+    width: 940px;
+    height: 650px;
+    background: #121212;
+    position: absolute;
+    z-index: 0;
+    margin-left: 60px;
+}
