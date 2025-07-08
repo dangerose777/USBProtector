@@ -6,7 +6,8 @@
 .container {
     width: 940px;
     height: 650px;
-    background: #121212;
+    background: #000f29;
+    background: radial-gradient(circle,rgba(0, 15, 41, 1) 0%, rgba(0, 7, 13, 1) 100%);
     position: absolute;
     z-index: 0;
     margin-left: 60px;

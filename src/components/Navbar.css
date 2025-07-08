@@ -1,7 +1,27 @@
 .navbar {
     width: 60px;
-    height: 650px;
-    background: #202020;
+    height: 649px;
+    background: #00070D;
     position: absolute;
     z-index: 2;
+    box-shadow: 1px 1px 10px 6px rgba(0, 0, 0, 0.624);
+    border-right: 2px black solid;
+    border-top: 1px black solid;
+    color: white;
+}
+
+.button {
+    color: white;
+    text-decoration: none;
+    font-size: 38px;
+    margin-left: 10px;
+}
+
+.button:hover {
+    color: #dddddd;
+    text-decoration: solid;
+}
+
+.buttons {
+    margin-top: 10px;
 }
