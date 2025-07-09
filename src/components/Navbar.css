@@ -1,12 +1,12 @@
 .navbar {
     width: 60px;
     height: 649px;
-    background: #00070D;
+    background: #151515;
     position: absolute;
     z-index: 2;
     box-shadow: 1px 1px 10px 6px rgba(0, 0, 0, 0.624);
-    border-right: 2px black solid;
-    border-top: 1px black solid;
+    border-right: 2px rgb(17, 17, 17) solid;
+    border-top: 1px rgb(17, 17, 17) solid;
     color: white;
 }
 
