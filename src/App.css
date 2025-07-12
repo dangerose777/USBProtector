@@ -1,6 +1,7 @@
 * {
     margin: 0px;
     padding: 0px;
+    color: white;
 }
 
 .container {
@@ -11,6 +12,7 @@
     z-index: 0;
     margin-left: 60px;
     font-family: "Poppins", sans-serif;
+    overflow: hidden;
 }
 
 .poppins-thin {
