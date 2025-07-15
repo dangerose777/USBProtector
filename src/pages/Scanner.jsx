@@ -7,6 +7,7 @@ export default function Scanner() {
     <div className="container">
       <BackgroundDesign />
         <h1>Scanner</h1>
+        <button className="scan-button">Scan device</button>
     </div>
   )
 }

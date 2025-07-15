@@ -2,7 +2,7 @@ import "./Navbar.css";
 import { Link } from "react-router";
 import { FaHome } from "react-icons/fa";
 import { RiUDiskFill } from "react-icons/ri";
-import { IoIosSettings, IoMdSearch } from "react-icons/io";
+import { IoIosSettings } from "react-icons/io";
 import { LuScanSearch } from "react-icons/lu";
 
 export default function Navbar() {

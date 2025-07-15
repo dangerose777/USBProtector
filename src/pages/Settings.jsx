@@ -5,9 +5,10 @@ import "./Settings.css";
 export default function Settings() {
   return (
     <div className="container">
+      <h1>Settings</h1>
       <BackgroundDesign />
       <div className="auto-start-container">
-        <p>Automatic start</p>
+        <p>Automatic start with system boot</p>
         <input type="checkbox" id="auto-start-ckbox" />
       </div>
       <div className="auto-start-scan-container">

@@ -7,6 +7,7 @@ import { BsDeviceHddFill, BsUsbDriveFill } from "react-icons/bs";
 export default function Devices() {
   return (
     <div className="container">
+      <h1>Devices</h1>
       <BackgroundDesign />
       <div className="devices-container">
         <p><BsDeviceHddFill /> DEVICE 1</p>
