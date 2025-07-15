@@ -1,10 +1,19 @@
-p {
+.auto-start-container p, .auto-start-scan-container p {
     font-size: 24px;
     margin-left: 40px;
 }
 
-#auto-start-ckbox, auto-start-scbox {
+#auto-start-ckbox, #auto-start-scbox {
     margin-top: -24px;
     margin-left: 15px;
     position: absolute;
+}
+
+.auto-start-container {
+    margin-top: 20px;
+    margin-left: 5px;
+}
+
+.auto-start-scan-container {
+    margin-left: 5px;
 }
