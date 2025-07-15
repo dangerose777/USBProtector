@@ -14,7 +14,7 @@ USB Protector detects connected USB devices in real time and helps prevent poten
 
 ## ⚙️ Tech Stack
 
-- **Frontend**: React + Vite + Tauri + Router
+- **Frontend**: React + Vite + Tauri + Router + React Icons
 - **Backend**: Python
 - **Platform**: Windows / Linux / macOS
 
