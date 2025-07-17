@@ -6,6 +6,7 @@ export default function Settings() {
   return (
     <div className="container">
       <h1>Settings</h1>
+      <h2>Adjust the program</h2>
       <BackgroundDesign />
       <div className="auto-start-container">
         <p>Automatic start with system boot</p>

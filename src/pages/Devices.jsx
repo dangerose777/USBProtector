@@ -8,6 +8,7 @@ export default function Devices() {
   return (
     <div className="container">
       <h1>Devices</h1>
+      <h2>Select device for scan</h2>
       <BackgroundDesign />
       <div className="devices-container">
         <p><BsDeviceHddFill /> DEVICE 1</p>
