@@ -2,8 +2,6 @@
 
 **Windows desktop tool for monitoring and analyzing USB devices.**
 
-Built with **Tauri**, **Vite**, **React**, and **Python**.
-
 USB Protector detects connected USB devices in real time and classifies the threat. It also presents data in a clear, modern interface.
 
 ## ✨ Features
