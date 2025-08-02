@@ -20,12 +20,12 @@ USB Protector detects connected USB devices in real time and classifies the thre
 <div align="center">
   <table>
     <tr>
-      <td><img src="USBProtector/screenshots/home.png" width="300"/></td>
-      <td><img src="USBProtector/screenshots/devices.png" width="300"/></td>
+      <td><img src="screenshots/home.png" width="300"/></td>
+      <td><img src="screenshots/devices.png" width="300"/></td>
     </tr>
     <tr>
-      <td><img src="USBProtector/screenshots/scanner.png" width="300"/></td>
-      <td><img src="USBProtector/screenshots/settings.png" width="300"/></td>
+      <td><img src="screenshots/scanner.png" width="300"/></td>
+      <td><img src="screenshots/settings.png" width="300"/></td>
     </tr>
   </table>
 </div>
