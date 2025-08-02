@@ -27,5 +27,17 @@ USB Protector detects connected USB devices in real time and classifies the thre
 ## 🛠️ Installation
 
 ```
-(coming soon)
+git clone https://github.com/dangerose777/USBProtector.git
+```
+```
+cd USBProtector
+```
+```
+npm i
+```
+
+## 👍 Run
+
+```
+npm run tauri dev
 ```
