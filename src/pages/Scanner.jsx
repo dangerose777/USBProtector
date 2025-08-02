@@ -3,6 +3,7 @@ import BackgroundDesign from "../components/BackgroundDesign";
 import "./Scanner.css";
 import { AiOutlineLoading } from "react-icons/ai";
 import { IoSkullSharp } from "react-icons/io5";
+import { Link } from "react-router-dom";
 
 export default function Scanner() {
   return (
@@ -13,7 +14,7 @@ export default function Scanner() {
 
       {/* First Container */}
       <div className="scan-container">
-        <button className="scan-button">Select device</button>
+        <Link className="scan-button" to="/devices">Select device</Link>
       </div>
 
       {/* Second Container */}
