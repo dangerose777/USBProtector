@@ -17,7 +17,18 @@ USB Protector detects connected USB devices in real time and classifies the thre
 
 ## 📸 Screenshots
 
-(coming soon)
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="USBProtector/screenshots/home.png" width="300"/></td>
+      <td><img src="USBProtector/screenshots/devices.png" width="300"/></td>
+    </tr>
+    <tr>
+      <td><img src="USBProtector/screenshots/scanner.png" width="300"/></td>
+      <td><img src="USBProtector/screenshots/settings.png" width="300"/></td>
+    </tr>
+  </table>
+</div>
 
 ## 🛠️ Installation
 
